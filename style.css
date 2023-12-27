@@ -1,0 +1,17 @@
+div {
+    background-color: #aaa;
+    width: 140px;
+    height: 80%;
+    padding: 30px;
+    border: 10px solid #111;
+}
+body{
+    margin:0px;
+
+}
+h1{
+background-color: blue;
+width: 140 ;
+padding: 20px;    
+border: 30px;
+}
